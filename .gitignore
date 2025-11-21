@@ -1,0 +1,10 @@
+#
+*.log
+*.vcxproj
+*.filters
+*.user
+/.vs
+/Debug
+/Release
+/CS1.6_Ch.26ddbf33
+/ImGui
